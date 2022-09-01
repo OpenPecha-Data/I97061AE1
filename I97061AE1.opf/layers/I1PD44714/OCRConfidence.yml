@@ -1,0 +1,30 @@
+id: 31d88f2683284f86829c060ed8bc49de
+annotation_type: OCRConfidence
+revision: '00001'
+annotations:
+  16db7e2631c0465d8eeb28a51ff76507:
+    span:
+      start: 146
+      end: 149
+    confidence: 0.45500000566244125
+  86844e51ffa344b08b0b2ae975cdf406:
+    span:
+      start: 151
+      end: 153
+    confidence: 0.49000000953674316
+  14603bf988c04007aafc8c63c0f07eb9:
+    span:
+      start: 171
+      end: 173
+    confidence: 0.7200000286102295
+  9d4fb064e1a8463cbe3bfb9f5989cc99:
+    span:
+      start: 387
+      end: 391
+    confidence: 0.699999988079071
+  ea2965d5db0d4dd1a8afeed0d9e8b3e3:
+    span:
+      start: 433
+      end: 434
+    confidence: 0.18000000715255737
+confidence_threshold: 0.8
